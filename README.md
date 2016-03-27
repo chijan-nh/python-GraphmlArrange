@@ -1,2 +1,2 @@
 # python-GraphmlArrange
-pythonのminidomライブラリによるgraphml操作スクリプト
+pythonのminidomライブラリによるgraphml操作スクリプトのつもり
